@@ -1,0 +1,21 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore all .DS_Store files (macOS)
+.DS_Store
+
+
+# Ignore data folder
+data/
+.ipynb_checkpoints/
+
+# Ignore all .pkl files
+*.pkl
